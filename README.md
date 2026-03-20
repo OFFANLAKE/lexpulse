@@ -11,4 +11,4 @@ Analyse des textes de loi en vigueur.
 Analyse spécifique au contexte numérique ou régional.
 
 ## Conclusion
-Synthèse et ouverture.
+Synthèse et ouverture..
